@@ -1,4 +1,4 @@
-# EXP-1
+<img width="1013" height="506" alt="Screenshot 2026-11-03 205013" src="https://github.com/user-attachments/assets/642b7a5d-93f1-4cba-9d4d-22c439c7c204" /><img width="1487" height="1302" alt="image" src="https://github.com/user-attachments/assets/14180fbd-4ff5-43ad-8021-1fbf3bfb2945" /># EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -44,40 +44,51 @@ b.  KCL:
 
 a.   KVL:
 
- <img width="857" height="441" alt="image" src="https://github.com/user-attachments/assets/5e21f9d6-7533-4ad8-99d7-8cfb7867b6ea" />
+<img width="1487" height="1302" alt="image" src="https://github.com/user-attachments/assets/370da8b0-0b98-47e3-a86a-24b895db1b0a" />
+
+<img width="857" height="441" alt="Screenshot 2026-11-03 204844" src="https://github.com/user-attachments/assets/c254a72a-fcfb-4f24-8645-2f361c85613b" />
+
 
 
 
 b.  KCL:
 
- <img width="1013" height="506" alt="image" src="https://github.com/user-attachments/assets/6969956b-5177-4a45-b811-f922118510c6" />
+ <img width="1280" height="995" alt="image" src="https://github.com/user-attachments/assets/705794d6-9fd5-43f6-a393-cd5876d6941c" />
+
+<img width="1013" height="506" alt="Screenshot 2026-11-03 205013" src="https://github.com/user-attachments/assets/738bf9cf-34c0-411f-a685-ba8388c08b25" />
 
 
 Calculation:
 
 a.   KVL:
 
- <img width="292" height="756" alt="image" src="https://github.com/user-attachments/assets/9c891814-e96c-4436-9701-5b9396b2bc8c" />
+ <img width="1463" height="1047" alt="image" src="https://github.com/user-attachments/assets/8a661ab4-5f1a-4c42-bdcf-748bb0964662" />
 
+
+<img width="1600" height="1128" alt="image" src="https://github.com/user-attachments/assets/74c71198-bc8e-4012-b1c2-cfece51a5d79" />
 
 
 b.  KCL:
 
-<img width="221" height="638" alt="image" src="https://github.com/user-attachments/assets/57a3b5a3-e0b3-4514-a7a4-37f98dbc9e83" />
+<img width="1335" height="960" alt="image" src="https://github.com/user-attachments/assets/58c23517-8217-4431-9d5a-d75bd6bc3052" />
 
+
+<img width="1600" height="732" alt="image" src="https://github.com/user-attachments/assets/dc088b45-18a9-4b9e-b0f2-fd6fa0e91c0c" />
 
 
 Tabulation:
 
 a.   KVL:
 
- <img width="192" height="80" alt="image" src="https://github.com/user-attachments/assets/ad7b10a4-f277-4047-89ac-f5da6a484b47" />
+ <img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/f91de81b-111b-4167-9dd6-e52a5b463e3e" />
+
 
 
 
 b.  KCL:
 
-<img width="212" height="63" alt="image" src="https://github.com/user-attachments/assets/0dd703f9-0a3e-4804-a25b-dc74f8fb893f" />
+<img width="1160" height="1600" alt="image" src="https://github.com/user-attachments/assets/9f137abe-e77b-43c6-ae53-f7d328ccaef0" />
+
 
 
 
